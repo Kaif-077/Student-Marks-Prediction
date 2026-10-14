@@ -78,4 +78,4 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, CatBoost, Flask, Matplotlib, Seabo
 - Add input validation
 
 ## Author
-**MOHAMED KAIF** – [GitHub](https://github.com/Kaif-077)
+**MOHAMED KAIF** – [GitHub](https://github.com/Kaif-077)
